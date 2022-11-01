@@ -1,0 +1,259 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Directional",
+      "request": "launch",
+      "mainClass": "Directional",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Paranoid",
+      "request": "launch",
+      "mainClass": "Paranoid",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Awoo",
+      "request": "launch",
+      "mainClass": "Awoo",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bishop",
+      "request": "launch",
+      "mainClass": "Bishop",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch CakeSplitting",
+      "request": "launch",
+      "mainClass": "CakeSplitting",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Card",
+      "request": "launch",
+      "mainClass": "Card",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch City",
+      "request": "launch",
+      "mainClass": "City",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Coloring",
+      "request": "launch",
+      "mainClass": "Coloring",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Decrement",
+      "request": "launch",
+      "mainClass": "Decrement",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch DoubleThing",
+      "request": "launch",
+      "mainClass": "DoubleThing",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch DurationTask",
+      "request": "launch",
+      "mainClass": "DurationTask",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Heist",
+      "request": "launch",
+      "mainClass": "Heist",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch InfiniteAra",
+      "request": "launch",
+      "mainClass": "InfiniteAra",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch LetterBlocks",
+      "request": "launch",
+      "mainClass": "LetterBlocks",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Mark",
+      "request": "launch",
+      "mainClass": "Mark",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch MinMaxSwap",
+      "request": "launch",
+      "mainClass": "MinMaxSwap",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch MinorReductin",
+      "request": "launch",
+      "mainClass": "MinorReductin",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch One",
+      "request": "launch",
+      "mainClass": "One",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Padlock",
+      "request": "launch",
+      "mainClass": "Padlock",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch PaliNum",
+      "request": "launch",
+      "mainClass": "PaliNum",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pancake",
+      "request": "launch",
+      "mainClass": "Pancake",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Parkway",
+      "request": "launch",
+      "mainClass": "Parkway",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pedestals",
+      "request": "launch",
+      "mainClass": "Pedestals",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Promo",
+      "request": "launch",
+      "mainClass": "Promo",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch RectangularPicture",
+      "request": "launch",
+      "mainClass": "RectangularPicture",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Shoe",
+      "request": "launch",
+      "mainClass": "Shoe",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution2",
+      "request": "launch",
+      "mainClass": "Solution2",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Squary",
+      "request": "launch",
+      "mainClass": "Squary",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Timur",
+      "request": "launch",
+      "mainClass": "Timur",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch TspDynamicProgrammingRecursive",
+      "request": "launch",
+      "mainClass": "TspDynamicProgrammingRecursive",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch digest",
+      "request": "launch",
+      "mainClass": "digest",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch div1",
+      "request": "launch",
+      "mainClass": "div1",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch dna",
+      "request": "launch",
+      "mainClass": "dna",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch myclass",
+      "request": "launch",
+      "mainClass": "myclass",
+      "projectName": "Codeforces_3019c9d4"
+    },
+    {
+      "type": "java",
+      "name": "Launch second",
+      "request": "launch",
+      "mainClass": "second",
+      "projectName": "Codeforces_3019c9d4"
+    }
+  ]
+}

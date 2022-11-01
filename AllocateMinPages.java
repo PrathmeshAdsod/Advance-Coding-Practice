@@ -55,7 +55,7 @@ public class AllocateMinPages {
 
 
     public static void main(String[] args) {
-        int arr[] = {250, 74, 159, 181, 23, 45, 129, 174};
+        int arr[] = {50, 74, 159, 181, 23, 45, 129, 174};
         int n = arr.length;
         int k = 6;
 
